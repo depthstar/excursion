@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    color: white;
+    text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 4%;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+h3 {
+    color: grey;
+    font-size: 21px;
+}
+
+h4 {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+
+
+
+footer {
+    color: grey;
+    text-align: right;
+    font-size: 21px;
+}
